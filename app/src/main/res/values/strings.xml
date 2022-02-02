@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My layouts</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button5">button5</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="view">TextView</string>
+</resources>
